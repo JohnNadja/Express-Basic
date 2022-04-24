@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JohnNadja/Express-Basic/issues"
   },
-  "homepage": "https://github.com/JohnNadja/Express-Basic#readme"
+  "homepage": "https://github.com/JohnNadja/Express-Basic#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
